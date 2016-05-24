@@ -1,7 +1,6 @@
 var DomUtils = module.exports;
 
 [
-	require("./lib/stringify"),
 	require("./lib/traversal"),
 	require("./lib/manipulation"),
 	require("./lib/querying"),
