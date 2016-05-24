@@ -1,5 +1,5 @@
 {
-  "name": "domutils",
+  "name": "@gema/domutils",
   "version": "1.5.1",
   "description": "utilities for working with htmlparser2's dom",
   "main": "index.js",
