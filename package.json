@@ -1,5 +1,5 @@
 {
-  "name": "@gema/domutils",
+  "name": "@mxw/domutils",
   "version": "1.5.1",
   "description": "utilities for working with htmlparser2's dom",
   "main": "index.js",
@@ -27,8 +27,8 @@
     "jshint": "~2.3.0",
     "mocha": "~1.15.1"
   },
-  "author": "Felix Boehm <me@feedic.com>",
-  "license": "BSD-2-Clause",
+  "author": "Maxwhere",
+  "license": "SEE LICENSE IN <LICENSE>",
   "jshintConfig": {
     "proto": true,
     "unused": true,
